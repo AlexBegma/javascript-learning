@@ -1,6 +1,5 @@
 "use strict";
 
-
 let str = "abcde";
 alert(str[0]);
 alert(str[1]);
